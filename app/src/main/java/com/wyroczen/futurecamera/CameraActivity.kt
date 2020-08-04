@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.FrameLayout
 
-class MainActivity : AppCompatActivity() {
+class CameraActivity : AppCompatActivity() {
 
     private lateinit var container: FrameLayout
 
